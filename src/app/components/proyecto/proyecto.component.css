@@ -1,0 +1,34 @@
+.row{
+    padding: 20px;
+}
+
+.container{
+    width: auto;
+}
+
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-proyecto{
+    box-shadow: 10px 10px 30px #363636;
+}
+
+.P2{
+    margin-top: 60px;
+}
+
+h3{
+    background-color: #d479ce;
+    border-radius: 10px;
+    padding-left: 30px;
+    color: white;
+}
+
+@media(max-width: 575px){
+    .P2{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}

@@ -1,0 +1,23 @@
+.row{
+    padding: 20px;
+}
+
+li{
+    background-color: #b175ad;
+    border-radius: 10px;
+    color: white;
+    list-style:none
+}
+
+h3{
+    margin-left: 30px;
+    display: inline-block;
+}
+
+p{
+    background-color: #EAECEE;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
